@@ -1,1 +1,1 @@
-# Predicting-google-playstore-app-rating
+# Predicting-google-playstore-apps-rating
